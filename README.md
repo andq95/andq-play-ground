@@ -1,3 +1,3 @@
 # andq-play-ground
 
-Just a playground for doing random stuff
+Just a playground for doing random stuff.
