@@ -1,0 +1,1 @@
+Playing: https://puzzles.modular.com/howto.html#gpu-support-matrix
